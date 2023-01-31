@@ -8,28 +8,14 @@
 * Never Approach someone outside the MS Team individually, i.e on whatsapp etc. Except one person and that is Hira Zarshaid who is working in HR department of the company.
 * Any unethical behaviour will not be tolerated in the company.
 * As it is an online platform, Therefore communication,collaboration and coordination with your employees is very important. 
-* After a weekend say '
-
-watch videos on youtube for how to bold in md files.numebring,style in the dcouments.
-layout the md file.
-Taking care of cyber security hygine is very important.
-never approach anyone outside the ms team.
-being ethically right whatever u say.
-communcivate with everyone
-say goodmorning
-onside job everyone 
-he she is here
-communicate with cowoekers
-leads
-shifts ends
-comeback in the chat
-hello i am about to colock out abt to end my shifts i did this.
-one note .md file sopreadsheet 
-word file 
-link of that file
-aleem please wait i need time to absord 
-can u rpeat it 
-work on communication
-how to create meeting.
-reply to mr hackney first leave evverything
-make md file on orbital video
+* After a weekend say "Good Morning Everyone, I hope that you all had a great weekend" in Welcome Group. 
+* Share your daily activities in Welcome group. So that everyone give their feedback by sharing their views and can comment on your work.
+* Be communicative with your Co-workers and leads.
+* when your shift ends, come back to chats in MS Team and send a message in welcome group, i.e hello everyone I am about to end my shift and share your work there which you have done.
+* How to share the link of these files i.e, One Note, spread sheet, .md file, and word file.
+* How to create a meeting in MS Team.
+* Reply to Mr.Hackney first whether if I am in a meeting or doing any office work. 
+* Make an .md file on ORBITAL video which is shared by Mr.Hackney in Super Lounge.
+* If having any doubt,problem or queries arising in your mind during a meeting ask ur trainer for help.
+* You can simply tell your trainer that "hold on for a second" or "If you dont mind" can YOu elaborate this thing again for me.
+* If you are writing it down whatever your trainer is saying you can simply tell him, "Please sir give me a minute i can't absorb this all at once, therefore give me a minute so i can write it down for future help".
