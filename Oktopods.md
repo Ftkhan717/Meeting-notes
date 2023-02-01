@@ -18,4 +18,4 @@
 
 ### Familiar with Oktopods:
 
-* You will get more familiar with Oktopods as you start working in it and when you will be assigned with tasks you will understand it then. 
+* You will get more familiar with Oktopods as you start working in it and when you will be assigned with tasks you will understand it deeply then. 
