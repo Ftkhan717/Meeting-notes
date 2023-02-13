@@ -55,9 +55,20 @@ apps, i.e Dynamics 365, SharePoint, Word, Excel, and PowerPoint.
       learning and how can you participate with your co-workers who are  having the same goal and obejctive. By sharing knowledge and collaboration with co-workers
       will create an impactful environment for learning.
       
-     
      * There are no limitations for gaining knowledge we let you explore different things and you might make mistakes because as you explore more without limitation 
      you will learn more which will be very productive for an organization.
+     
+## REGULARITY:
+
+* The regularity consists of wide range of practices, patterns and customs which helps an individual not to be just punctual in his character but also it is needed in workplace too.
+
+* If you wanna be a successful businessman you must remain coherent with your client, employees and co-workers on regular basis.
+
+* Your schedules and timing can create problem for you If you are not working accordingly with your timing and schedules.
+
+* An experienced worker thinks extra ordinary after taking every step   
+
+* 
      
      
      
