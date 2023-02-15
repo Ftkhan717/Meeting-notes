@@ -80,15 +80,16 @@ specific person talking about the specoific responsiblities base.
 
 * Lean is a whole process that we can follow in a project.
 
-* Concept for the first step is like that  we eat vegetable that i did with my daughter concept is the point where we will dicuss what the project is 
+* Concept for the first step is like that we show a small baby in a T.V show that see how they are eating vegetable so they get the idea that the vegetables are for eating.
 
-* Concept the idea is where genrated and born sp if we see lean metjhodology so the candidate application P is the main concept that hoe we are going to recruit
-* and hire onboard
-* discussion how we are going to complete it 10 steps. how we are going to bring this concept into reality then we come to development.
-* with each sub step we dicsus with each how we are goign to improve.
-* if we make a milestone of revel. tek go through entire reve. tek introduction. do some research on how we are going to compare it with oothers company 
-* do have different company
+* Concept is where idea is genrated and born if we see lean methodology, so the Candidate Application Program is the main concept that how we are going to do recruiting, hiring and onboard.
+
+* Discussion is how we are going to complete it in 10 steps. how we are going to bring this concept into realityand with each sub step we dicsus with each how we are goign to improve.
+
+* Then we come to development.
+
+* if we make a milestone of revel. tek, we will go through entire Revel. Tek introduction. do some research on how we are going to compare it with others company.
+
 * compare with others that what we are missing in it after comparing different companies introductions.
 
-* lets just makke the milestone.
-* How we are goin to hire recruit and onboard. the whole procedure that we folow during the procedure
+
