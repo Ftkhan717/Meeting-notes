@@ -72,17 +72,17 @@ specific person talking about the specoific responsiblities base.
 
 * Therehere is always a process thatw e need to follow while completing a project. eithere agile methodology or lean methodology.
 
-* why we are needing to work on the sub-parts
+* The question is that why we are needing to work on the sub-parts because utimately we will be completing a proper project after completing it step by step.
 
-* utimately we will be completing a proper project after completing it little by little.
-* Let say there is process called lean
-* both of them are differnt process which we use when w ear working on the project.
-* lean is a whoile process thatwe can foollow in aporjextt
-* example
-* daughter i M GOING TO COOK SOMETHING BROKLEY IS VEGETABLE WHAT PROCESS I AM GOING TO DO iam going to have brokley
-* i am going to show her cartoon who are eating brokley. that is first part of dicussion. 
-* Concept for the first step we eat vegetable that i did with my daughter concept is the point where we will dicuss what the project is 
-* Cocept the idea is where genrated and born sp if we see lean metjhodology so the candidate application P is the main concept that hoe we are going to recruit
+* Let say there is process called Lean and Agile methodology.
+
+* Both of them are differnt process which we use when we are working on the project.
+
+* Lean is a whole process that we can follow in a project.
+
+* Concept for the first step is like that  we eat vegetable that i did with my daughter concept is the point where we will dicuss what the project is 
+
+* Concept the idea is where genrated and born sp if we see lean metjhodology so the candidate application P is the main concept that hoe we are going to recruit
 * and hire onboard
 * discussion how we are going to complete it 10 steps. how we are going to bring this concept into reality then we come to development.
 * with each sub step we dicsus with each how we are goign to improve.
