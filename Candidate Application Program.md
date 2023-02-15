@@ -37,24 +37,43 @@ specific person talking about the specoific responsiblities base.
 
 * streamline and optimize the hiring oprocess of the company
 
-* This is a project that is internal of the company, but it is specifically for the people or applicant that we are hiring
+* This is a project that is internal of the company, but it is specifically for the people or applicant that we are hiring.
 
 * It should be so stream line and effective so that the rule and policy are all set for the process of hiring and recruitment.
 
 * ## HOW TO APPLY IN REVEL. TEK:
-* 
 
+* We will send a link to the candidate which he will open and then he will fill a form by pressing enter the form will be submitted to us.
+ 
+* We will then send him some reading material and we will ask him some questions about the job that why he want to do this job, What are his working hours, what is the expected salary etc. So that we get to know that he is fit for this job or not?
 
+* We will start hiring process and before interview we will ask him to make a flipgrid video to check his confidence level and way of communication.
 
+* Now we will call for the first interview to know about his hobbies, likes and dislikes, education background etc. After then we ill call him for the second and third interview. 
 
+## 10 Folders to develop:
 
+* The candidate Application Program consist of 10 folders and these 10 folders are Milestone of the project that we need to complete.
 
+* we will improve some folders according to Lean methodology and on some folders we will have to start work from scratch. i.e. 30, 90 and 180 day onboarding plan milestone.
 
+* Read the Training material of your company and compare them with other companies training materials.
 
-* by ,making milestone
-* thsese milestone will be divided iinto small sub bparts of it.
-* there is always a process thatw e need to follow while completing a project. eithere agile methodology or lean methodology.
+* Introduction to Revel. Tek, we will compare its material with other companies material and then we will improve it according to other companies. 
+
+* 30 days onboarding plan consist of:
+    
+    * what wwe need from the new selected candidate to do.
+    * We will plan all the achievements of the candidate in this onboarding plan.
+    * We will want the employess to learn about the company, its culture and all the tools that we use n the company.
+    * As we use Github and how much it is important for the new employees to learn it properly.
+  
+* By making milestones, they will be divided iinto small sub parts of it.
+
+* Therehere is always a process thatw e need to follow while completing a project. eithere agile methodology or lean methodology.
+
 * why we are needing to work on the sub-parts
+
 * utimately we will be completing a proper project after completing it little by little.
 * Let say there is process called lean
 * both of them are differnt process which we use when w ear working on the project.
