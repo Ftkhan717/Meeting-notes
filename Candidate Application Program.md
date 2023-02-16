@@ -82,14 +82,14 @@ specific person talking about the specoific responsiblities base.
 
 * Concept for the first step is like that we show a small baby in a T.V show that see how they are eating vegetable so they get the idea that the vegetables are for eating.
 
-* Concept is where idea is genrated and born if we see lean methodology, so the Candidate Application Program is the main concept that how we are going to do recruiting, hiring and onboard.
+* Concept is where idea is generated and born if we see learn methodology, so the Candidate Application Program is the main concept that how we are going to do recruiting, hiring and onboarding.
 
-* Discussion is how we are going to complete it in 10 steps. how we are going to bring this concept into realityand with each sub step we dicsus with each how we are goign to improve.
+* Discussion is how we are going to complete it in 10 steps. how we are going to bring this concept into reality and with each sub step we dicsus with each how we are goig to improve.
 
 * Then we come to development.
 
 * if we make a milestone of revel. tek, we will go through entire Revel. Tek introduction. do some research on how we are going to compare it with others company.
 
-* compare with others that what we are missing in it after comparing different companies introductions.
+* Compare with others that what we are missing in it after comparing it with different companies introductions.
 
 
