@@ -1,3 +1,5 @@
+## HOW TO WORK ON AN ISSUE AND HOW TO MAKE A PULL REQUEST:
+
 * First go to Revel. Tek website and click on the issues.
 
 * Then click on Milestone and go to Revel. Tek to finish the Milestone.
