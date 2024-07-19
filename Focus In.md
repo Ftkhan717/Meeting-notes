@@ -1,4 +1,4 @@
-## Gemba Walk Daily Checklist:
+## Focus In Daily Checklist:
 
 * Log in to Jira and review the current sprint. Make sure only one issue is "In Progress" per team member. If multiple issues are In Progress, discuss with the team member to move extra
   issues back to "To Do".
