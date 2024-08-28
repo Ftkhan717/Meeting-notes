@@ -1,7 +1,8 @@
 ## Focus In Daily Checklist:
 
-* Log in to Jira and review the current sprint. Make sure only one issue is "In Progress" per team member. If multiple issues are In Progress, discuss with the team member to move extra
-  issues back to "To Do".
+* Review their Focus inside the chatroom for their daily goals instead of asking them individually. This is how Agile works.
+
+* Log in to Jira and review the current sprint. Make sure only one issue is "In Progress" per team member. If multiple issues are In Progress, discuss with the team member to move extra issues back to "To Do".
 
 * For the issue In Progress, check Smart Commits and Smart Branches to ensure the commit messages and branch names follow our naming conventions and relate to the ticket number.
 
